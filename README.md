@@ -1,28 +1,48 @@
-# HTML Lab Tasks
+# 🌐 Full Stack Lab Tasks - HTML Module
 
-This repository contains all the HTML lab assignments and tasks completed as part of our Web Development coursework. Each task demonstrates the use of various HTML elements and structures.
+Welcome to the **Full Stack HTML Lab Tasks** repository! This repo contains all the HTML-based lab exercises completed as part of our web development curriculum. It includes various HTML concepts such as media embedding, links, lists, formatting, and structured web content.
 
-## 📁 Folder Structure
+## 📁 Repository Contents
 
-## ✅ Completed Topics
+Here’s an overview of the files currently available:
 
-- Basic HTML page structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
-- Text formatting tags (`<h1>` to `<h6>`, `<p>`, `<b>`, `<i>`, `<u>`, etc.)
-- Links and images (`<a>`, `<img>`)
-- Lists and tables (`<ul>`, `<ol>`, `<table>`)
-- Forms and input types (`<form>`, `<input>`, `<textarea>`, `<select>`)
-- Embedding multimedia (`<audio>`, `<video>`)
-- Semantic elements (`<header>`, `<footer>`, `<section>`, `<article>`)
-- Basic styling using inline CSS
+### 📄 HTML Files
+- `paragraph.html` – Demonstrates paragraph formatting
+- `links.html` – Contains anchor/link examples
+- `image.html` – Embeds and displays images
+- `week2_task1_a.html` to `week2_task3_b.html` – Lab tasks covering:
+  - Basic HTML structure
+  - Forms
+  - Lists and Tables
+  - Text styles and layout
 
+### 🖼️ Images
+- `charith.jpg`
+- `aditya.png`
+- `natraj.png`
 
-## 🚀 How to Use
+### 🎵 Multimedia
+- `audio.mp3`
+- `video_for_lab.mp4`
 
-1. Clone the repo:
+### 📄 Other Files
+- `HTML TASKS.txt` – Contains a description or list of HTML tasks
+
+## ✅ Topics Covered
+
+- HTML Document Structure (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`)
+- Paragraphs, Headings, Lists
+- Links and Images
+- Tables and Forms
+- Embedding Multimedia (Audio & Video)
+- Inline Styling and Tag Attributes
+
+## 🧪 How to Use
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/A-Charith/Full-Stack.git
 
-**##🙋‍♂️ Author**
+## 🙋‍♂️ Author
 A. Charith
 GitHub: @A-Charith
-   
